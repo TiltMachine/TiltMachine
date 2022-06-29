@@ -35,3 +35,10 @@
 <a href="https://t.me/dimkand">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+
+<br/>
+<br/>
+
+<p align='center'>
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiltMachine&theme=vue" width="800"></a>
+</p>
